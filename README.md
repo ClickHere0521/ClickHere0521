@@ -7,10 +7,10 @@ I value honesty most in my work. Do you need an honest developer who is faithful
 ### 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-Reactnative-05122A?style=flat&logo=reactnative)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![JSP](https://img.shields.io/badge/-JSP-05122A?style=flat&logo=jsp)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
