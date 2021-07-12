@@ -41,7 +41,6 @@ I value honesty most in my work. Do you need an honest developer who is faithful
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ClickHere0521&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
 </a>
 </p>
 
@@ -49,4 +48,5 @@ I value honesty most in my work. Do you need an honest developer who is faithful
 
 <p align="center">
 <a href="mailto:effortsclickhere0901@gmail.com"><img src="https://img.shields.io/badge/-effortsclickhere0901@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:live:.cid.280eef2b37d906ad"><img src="https://img.shields.io/badge/-live:.cid.280eef2b37d906ad-D14836?style=flat&logo=Skype&logoColor=white"/></a>  
 </p>
