@@ -48,5 +48,5 @@ I value honesty most in my work. Do you need an honest developer who is faithful
 
 <p align="center">
 <a href="mailto:effortsclickhere0901@gmail.com"><img src="https://img.shields.io/badge/-effortsclickhere0901@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:live:.cid.280eef2b37d906ad"><img src="https://img.shields.io/badge/-live:.cid.280eef2b37d906ad-D14836?style=flat&logo=Skype&logoColor=white"/></a>  
+<a href="mailto:live:.cid.280eef2b37d906ad"><img src="https://img.shields.io/badge/-live:.cid.280eef2b37d906ad-4da6eb?style=flat&logo=Skype&logoColor=white"/></a>  
 </p>
