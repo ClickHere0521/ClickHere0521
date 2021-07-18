@@ -1,4 +1,12 @@
-### Hi there 👋, my name is Honesty
+<h3 align="center">
+  Welcome to Honesty's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 #### I am a JS/TS/PHP/Dart/Java Developer.
 ![I am a JS/TS/PHP/Dart/Java Developer.](https://github.com/ClickHere0521/ClickHere0521/blob/main/back.jpg)
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/ClickHere0521)
@@ -32,7 +40,7 @@ I value honesty most in my work. Do you need an honest developer who is faithful
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 - 🔭 I’m currently working at my home due to COVID-19 
-- 🌱 I’m currently learning Java Frameworks 
+- 🌱 I’m currently learning Blockchain 
 - 👯 I’m looking to collaborate on a good team 
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: effortsclickhere0901@gmail.com 
@@ -50,5 +58,7 @@ I value honesty most in my work. Do you need an honest developer who is faithful
 
 <p align="center">
 <a href="mailto:effortsclickhere0901@gmail.com"><img src="https://img.shields.io/badge/-effortsclickhere0901@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="skype:Honesty?chat"><img src="https://img.shields.io/badge/-live:.cid.280eef2b37d906ad-0063b0?style=flat&logo=Skype&logoColor=white"/></a>  
+<a href="skype:Honesty?chat"><img src="https://img.shields.io/badge/-live:.cid.280eef2b37d906ad-0063b0?style=flat&logo=Skype&logoColor=white"/></a>
+<a href="https://discord.gg/fPrdqh3Zfu"><img src="https://img.shields.io/badge/-live:.cid.280eef2b37d906ad-0063b0?style=flat&logo=Skype&logoColor=white"/></a>
+<a href="https://dev.to/denvercoder1"><img src="https://img.shields.io/badge/-live:.cid.280eef2b37d906ad-0063b0?style=flat&logo=Skype&logoColor=white"/></a>
 </p>
