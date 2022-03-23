@@ -54,3 +54,8 @@ I value honesty most in my work. Do you need an honest developer who is faithful
   <img alt="ClickHere0521's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClickHere0521&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> 
 </a>
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/clickhere0521/count.svg" />
+</p>
